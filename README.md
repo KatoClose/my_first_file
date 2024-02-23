@@ -15,3 +15,5 @@
 #Om te controleren dat dit gelukt is cd naam map enter 
 ## ls enter 
 ### git status 
+
+#-------------------------------------------------------------------------------
